@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Werkzeug
+PyJWT
+psycopg2
+python-dotenv
+flask-cors
